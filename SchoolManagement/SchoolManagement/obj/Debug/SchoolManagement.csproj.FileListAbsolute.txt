@@ -1,0 +1,109 @@
+C:\Users\Infinitimo_\Desktop\Student Management\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\Infinitimo_\Desktop\Student Management\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\Infinitimo_\Desktop\Student Management\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\Infinitimo_\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\Infinitimo_\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.loading.resources
+C:\Users\Infinitimo_\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Login.resources
+C:\Users\Infinitimo_\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\Infinitimo_\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.students.resources
+C:\Users\Infinitimo_\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.teachers.resources
+C:\Users\Infinitimo_\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\Infinitimo_\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\Infinitimo_\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\Jobmo.lk\Desktop\Student Management\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\Jobmo.lk\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\Jobmo.lk\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\Jobmo.lk\Desktop\Student Management\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\Jobmo.lk\Desktop\Student Management\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\Jobmo.lk\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\Jobmo.lk\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Attendance.resources
+C:\Users\Jobmo.lk\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.loading.resources
+C:\Users\Jobmo.lk\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Login.resources
+C:\Users\Jobmo.lk\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\Jobmo.lk\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.students.resources
+C:\Users\Jobmo.lk\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Subject.resources
+C:\Users\Jobmo.lk\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.teachers.resources
+C:\Users\Jobmo.lk\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\Jobmo.lk\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Main.resources
+C:\Users\Jobmo.lk\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Entrollment.resources
+C:\Users\Jobmo.lk\Desktop\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Sections.resources
+C:\Users\Jobmo.lk\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\Jobmo.lk\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\Jobmo.lk\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\Jobmo.lk\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\Jobmo.lk\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\Jobmo.lk\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\Jobmo.lk\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Attendance.resources
+C:\Users\Jobmo.lk\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Dashboard.resources
+C:\Users\Jobmo.lk\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Entrollment.resources
+C:\Users\Jobmo.lk\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.loading.resources
+C:\Users\Jobmo.lk\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Login.resources
+C:\Users\Jobmo.lk\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Main.resources
+C:\Users\Jobmo.lk\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\Jobmo.lk\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Sections.resources
+C:\Users\Jobmo.lk\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.students.resources
+C:\Users\Jobmo.lk\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Subject.resources
+C:\Users\Jobmo.lk\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.teachers.resources
+C:\Users\Jobmo.lk\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\JK Dreamy\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\JK Dreamy\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\JK Dreamy\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\JK Dreamy\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\JK Dreamy\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\JK Dreamy\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\JK Dreamy\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Attendance.resources
+C:\Users\JK Dreamy\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Dashboard.resources
+C:\Users\JK Dreamy\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Entrollment.resources
+C:\Users\JK Dreamy\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.loading.resources
+C:\Users\JK Dreamy\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Login.resources
+C:\Users\JK Dreamy\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Main.resources
+C:\Users\JK Dreamy\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\JK Dreamy\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Sections.resources
+C:\Users\JK Dreamy\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.students.resources
+C:\Users\JK Dreamy\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Subject.resources
+C:\Users\JK Dreamy\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.teachers.resources
+C:\Users\JK Dreamy\Desktop\Student Management\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.AssemblyReference.cache
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Attendance.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Dashboard.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Entrollment.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.loading.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Login.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Main.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Sections.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.students.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Subject.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.teachers.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.cache
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CoreCompileInputs.cache
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\bin\Debug\schoolDB.mdf
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\bin\Debug\schoolDB_log.ldf
+C:\Users\thisa\Downloads\Group 7\Group 7\Student Management\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe.config
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\bin\Debug\schoolDB.mdf
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\bin\Debug\schoolDB_log.ldf
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.AssemblyReference.cache
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe.config
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Attendance.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Dashboard.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Entrollment.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.loading.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Login.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Main.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Sections.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.students.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Subject.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.teachers.resources
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.cache
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CoreCompileInputs.cache
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\thisa\Downloads\Group 7\Group 7\Group J - Student Management System\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
